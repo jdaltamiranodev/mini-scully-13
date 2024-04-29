@@ -5,4 +5,4 @@ published: true
 ---
 
 # Mi Segundo Post
-dasdsa
+40 minutos antes
