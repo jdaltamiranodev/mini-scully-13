@@ -16,5 +16,4 @@ export class HomeComponent implements OnInit {
       this.posts = posts.filter(post => post.title);
     });
   }
-
 }
