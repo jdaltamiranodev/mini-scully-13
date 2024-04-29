@@ -14,7 +14,6 @@ const routes: Routes = [
     component: HomeComponent,
   },
   { path: 'articles', loadChildren: () => import('./views/articles/articles.module').then(m => m.ArticlesModule) },
-  { path: 'posts', loadChildren: () => import('./posts/posts.module').then(m => m.PostsModule) },
   { path: 'posts', loadChildren: () => import('./posts/posts.module').then(m => m.PostsModule) }
 ];
 
