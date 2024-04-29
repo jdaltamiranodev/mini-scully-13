@@ -28,7 +28,26 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Run the Project
 
-1. ```git clone https://github.com/jdaltamiranodev/mini-scully-13.git```
-2. ```npm i```
-3. ```ng build```
-4. ```npm run skully:serve```
+1.
+
+```
+git clone https://github.com/jdaltamiranodev/mini-scully-13.git
+```
+2. 
+
+```
+npm i
+```
+
+
+3.
+
+```
+ng build
+```
+
+4. 
+
+```
+npm run skully:serve
+```
